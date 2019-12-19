@@ -1,0 +1,12 @@
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\bin\Debug\MCF - Easy Onset Package.exe.config
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\bin\Debug\MCF - Easy Onset Package.exe
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\bin\Debug\MCF - Easy Onset Package.pdb
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF___Easy_Onset_Package.Form1.resources
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF___Easy_Onset_Package.Properties.Resources.resources
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF - Easy Onset Package.csproj.GenerateResource.cache
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF - Easy Onset Package.csproj.CoreCompileInputs.cache
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF - Easy Onset Package.csproj.CopyComplete
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF - Easy Onset Package.exe
+C:\Users\mcfam\source\repos\MCF - Easy Onset Package\obj\Debug\MCF - Easy Onset Package.pdb
